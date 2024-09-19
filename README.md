@@ -1,1 +1,12 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary> Lifelong Learner, currently working as budagh kompeni. <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /> </p> ### <summary><strong>Tools:</strong></summary> <p> <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" /> </p> ### <summary><strong>Yosh!</strong></summary> <p> - :keyboard: I’m currently learning Data Analytics. </br> - :speech_balloon: Ask me about anything.</br> - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a> </br> - :cloud: Pronouns: She/Her. </br> - :game_die: Drawing and writing are part of me. </br> <p> ### <summary><strong>Let's connect!</strong></summary> <a href="https://twitter.com/yours"> <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" /> </a> <a href="https://www.instagram.com/yours/"> <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" /> </a> <a href="https://yours.com/"> <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" /> </a>
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,Kaguya%27Shinomiya+Was Here;Nice+to+see+you....!&size=25">
+  </a>
+</h1>
+
+
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
+    width="30px">, I'm Kaguya Shinomiya</h1>
+<h3 align="center">i'm not Hacker And Not Programer</h3>
