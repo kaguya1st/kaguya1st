@@ -1,9 +1,4 @@
-<h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+%F0%9F%91%8B,I%27m+ Kaguya Shinomiya;Nice+to+see+you....!&size=25">
-  </a>
-</h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Kaguya+Shinomiya+was+here+%5E_%5E;Gunakan+script+dengan+bijak;resiko+di+tanggung+pemakai+%3Av" alt="Typing SVG" /></a>
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
